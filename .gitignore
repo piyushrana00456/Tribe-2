@@ -1,0 +1,6 @@
+/node_modules
+/.pnp
+.pnp.js
+
+#ignore env file
+.env
